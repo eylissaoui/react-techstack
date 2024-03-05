@@ -1,0 +1,30 @@
+## Tutorials, tips and good practices
+
+- Other libraries: https://www.robinwieruch.de/react-libraries/#how-to-create-a-react-project
+- Clean code Javascript: https://github.com/ryanmcdermott/clean-code-javascript
+- Bullet-proof React: https://github.com/alan2207/bulletproof-react
+- Best video about basic React hooks: https://youtu.be/3cYtqrNUiVw?si=TqCYOtfocQXNf-HR
+- Creating high quality React components: https://www.youtube.com/watch?v=eXRlVpw1SIQ
+- Composable & Compound Components: https://www.youtube.com/watch?v=vPRdY87_SH0
+- 12 Mistakes junior devs make: https://www.youtube.com/watch?v=-yIsQPp31L0
+- Preventing re-renders caused by context API: https://www.youtube.com/watch?v=16yMmAJSGek
+- Do not use index as key: https://www.youtube.com/watch?v=fGxKOmCuH5w
+- Conventional Git commit messages:
+  - https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
+  - https://github.com/conventional-changelog/commitlint
+- ESLint & Prettier VSCode setup: https://www.youtube.com/watch?v=SMbqi1HPprc
+- Testing with React: https://www.youtube.com/watch?v=bvdHVxqjv80
+- Sending emails with React and Resend: https://www.youtube.com/watch?v=a8b3EN0R-M4
+- Multistep forms with React Hook Form: https://www.youtube.com/watch?v=lW_0InDuejU
+- Suspense and Error Boundaries: https://www.youtube.com/watch?v=h_vVsPwvcsg
+- Some Typescript utility types: https://www.youtube.com/watch?v=6Hj56GdFpgs
+- 6 ideas for animating your app with Framer Motion: https://www.youtube.com/watch?v=He1_AH6kC8Y
+- React Typescript generics (Example with a table component): https://www.youtube.com/watch?v=zqz-lEHjJr4
+- React Router DOM: https://www.youtube.com/watch?v=oTIJunBa6MA
+- `pnmp` workspaces:
+  - https://dev.to/armadillidiid/setting-up-a-monorepo-using-pnpm-workspaces-with-typescript-and-tailwind-5611
+  - https://www.brockherion.dev/blog/posts/setting-up-a-monorepo-with-pnpm-and-typescript/
+  - https://www.youtube.com/watch?v=HM03XGVlRXI
+  - https://blog.emmanuelisenah.com/setting-up-a-monorepo-using-pnpm-workspaces-with-typescript-and-tailwind
+- Vite lib mode: https://www.youtube.com/watch?v=XDip9onOTps
+- Useful Taiwindcss classes: https://www.youtube.com/watch?v=mjL_vrNo1fQ
