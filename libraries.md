@@ -77,6 +77,7 @@
 - `react-number-format`
 - `react-currency-input-field`
 - `react-select-zero`
+- `@headlessui/react`
 
 ### Date Input / Date picker
 
