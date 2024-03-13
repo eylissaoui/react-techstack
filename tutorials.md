@@ -5,6 +5,7 @@
 - Bullet-proof React: https://github.com/alan2207/bulletproof-react
 - Best video about basic React hooks: https://youtu.be/3cYtqrNUiVw?si=TqCYOtfocQXNf-HR
 - Creating high quality React components: https://www.youtube.com/watch?v=eXRlVpw1SIQ
+- Reusable components: https://www.youtube.com/watch?v=Gp95bKdmfok
 - Composable & Compound Components: https://www.youtube.com/watch?v=vPRdY87_SH0
 - 12 Mistakes junior devs make: https://www.youtube.com/watch?v=-yIsQPp31L0
 - Preventing re-renders caused by context API: https://www.youtube.com/watch?v=16yMmAJSGek
