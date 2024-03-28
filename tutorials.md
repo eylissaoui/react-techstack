@@ -1,6 +1,7 @@
 ## Tutorials, tips and good practices
 
 - Other libraries: https://www.robinwieruch.de/react-libraries/#how-to-create-a-react-project
+- shadcn-based libraries: https://github.com/birobirobiro/awesome-shadcn-ui
 - Clean code Javascript: https://github.com/ryanmcdermott/clean-code-javascript
 - Bullet-proof React: https://github.com/alan2207/bulletproof-react
 - Best video about basic React hooks: https://youtu.be/3cYtqrNUiVw?si=TqCYOtfocQXNf-HR
