@@ -143,6 +143,7 @@
 ### Drag-n-Drop
 
 - `@hello-pangea/dnd`
+- `@atlassiankit/pragmatic-drag-and-drop`
 
 ### Image editor (crop)
 
